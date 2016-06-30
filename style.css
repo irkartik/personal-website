@@ -1,0 +1,10 @@
+#homepage {
+	width:100%;
+	height: 60%;
+	z-index: -1000;
+	padding-top: 70px;
+}
+
+a.hover{
+	background-color: #fff;
+}
